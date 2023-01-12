@@ -1,13 +1,19 @@
-<p align="center"><b><i>Hey, I'm east! ~</i></b>
-<img align="right" width="40%" height="auto" src="git.png"><h5><p><br>
-Bio : <i>I'm a amateur programmer/code thief.<br>I mostly mod video games or make things I find useful.</i><br>
-Interests : <i>Privacy, Linux, Video Games, Music, LGBTQ+, Data Hording,</i><br>
-Gender : <i>Genderfluid, preference for feminine terms.</i><br>
-Height : <i>170cm</i><br>
-Weight : <i>58kg</i><br>
-Status : <i>Single</i><br>
-</h5></p><br><br>
-<h6><p align="center"><i>Contact Information :<br> Discord : east#0013 <br>Matrix : @easte:matrix.org</i></h6>
+
+Hey, I'm east, a learning amateur programmer.
+Some of my interests include <i>privacy, Linux/BSD, and data hording / archival.
+
+I'm migrating to mainly use [Codeberg](https://codeberg.org/east "east on codeberg") <br>
+All of my projects and future projects will be 1:1 and mirrored with each other for archival purposes, <br> *but* I intend to do a majority of my development on codeberg. I encourage you to do the same!
+> "why migrate?"
+
+
+Well mainly moral reasons, codeberg is a community driven, non-profit, libre git platform.
+
+> will it suddenly disappear? 
+
+
+"As of July 2020, with all expenses frozen, we have a runway of ~12 years" - [Codeberg FAQ](https://codeberg.org/east](https://docs.codeberg.org/getting-started/faq/#is-codeberg-well-funded%3F) "Is codeberg well funded?")
+
 <!--
 Secret Information :
 I'm in your walls
