@@ -1,5 +1,5 @@
 
-Hey, I'm east, a learning amateur programmer.
+Hey, I'm east, a learning amateur programmer. <br>
 Some of my interests include <i>privacy, Linux/BSD, and data hording / archival.
 
 I'm migrating to mainly use [Codeberg](https://codeberg.org/east "east on codeberg") <br>
